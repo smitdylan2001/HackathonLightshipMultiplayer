@@ -1,7 +1,7 @@
 # HackathonLightshipMultiplayer
 AR multiplayer game Get Inside
 
-Uses the Shared AR template to have a fun multiplayer experience.
+Uses the Shared AR template to have a fun multiplayer experience. Made in 2-3 days
 
 Get inside of the aura and stay there for 20 seconds. Watch out, once inside you can spawn the aura where ever you want!
 
