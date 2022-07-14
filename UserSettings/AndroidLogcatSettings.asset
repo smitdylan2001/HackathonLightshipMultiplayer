@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "9889db324a3856544a",
         "name": "com.DefaultCompany.LightshipMultiplayer",
-        "processId": 8051,
+        "processId": 9177,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -60,6 +60,12 @@
             "deviceId": "9889db324a3856544a",
             "name": "com.DefaultCompany.LightshipMultiplayer",
             "processId": 8051,
+            "exited": false
+        },
+        {
+            "deviceId": "9889db324a3856544a",
+            "name": "com.DefaultCompany.LightshipMultiplayer",
+            "processId": 9177,
             "exited": false
         }
     ],
